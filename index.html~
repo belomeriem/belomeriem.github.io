@@ -19,13 +19,12 @@
     <H4>PhD candidate at the  Department of Computer Science and Engineering, HKUST</H4>
 
     <ADDRESS>
-      <A href="https://belomeriem.github.io/">r</A><BR />
       <A>Department of Computer Science</A><BR />
       <A>The University of Copenhagen></A><BR />
       HKUST, Clear Water Bay, Kowloon, Hong Kong<BR />
       lab +852 2358-8831 room 2602 (lifts 29/30)<BR />
       mbeloucif (at) cs (dot) ust (dot) hk 
-      <A href="http://www.cs.ust.hk/~mbeloucif">http://www.cs.ust.hk/~mbeloucif/</A>
+      <A href="https://belomeriem.github.io/">https://belomeriem.github.io/</A>
     </ADDRESS>
 
     <p>
@@ -33,24 +32,27 @@
       <p>
 Before HKUST, I did a Master degree in Software Engineering at the Department of Computer Science, University of Science and Technology Houari Boumedienne, Algiers, Algeria.  
 </p>
-<p>  I am currently doing research on statistical machine translation with a particle focus on word alignment, semantic role labeling,  machine translation evaluation, quality estimation, automatic post editing and semantic analysis of text.</p>
-Please feel free to check my <a href="MeriemCV.pdf">curriculum vitae</a> and my <a href="https://scholar.google.com.hk/citations?user=yRo5n7cAAAAJ&hl=en">Google Scholar</a>.
+<p>  I am currently doing research on neural machine translation with a particle focus to using reinforcement learning for NMT. I also collaborate on multiple projects sucj as semantic role labelling and fact checking. Please feel free to check my <a href="MeriemCV.pdf">curriculum vitae</a> and my <a href="https://scholar.google.com.hk/citations?user=yRo5n7cAAAAJ&hl=en">Google Scholar</a>.
  
 
     <h4>Research interests</h4>
     <p>
+      Neural Machine Translation, 
+      Co-reference NMT, 
+      Semantic parsing, 
       Statistical Machine Translation,  
       Word Alignment, 
       Semantic Role Labeling,
       SMT for Low Resource Languages,
-      Quality Estimation, 
+      Fact checking,
+      Quality Estimation,
       Natural Language Processing, 
       Machine Learning.
     </p>
 
     <h4>Education</h4>
 
-<LI>Since 2013: PhD in Computer Science, Hong Kong University of Science and Technology (HKUST), Hong Kong, China. </LI>
+<LI>2013-2018: PhD in Computer Science, Hong Kong University of Science and Technology (HKUST), Hong Kong, China. </LI>
 <LI>2010: Master in Softwares Engineering, University of Science and Technology Houari Boumedienne (USTHB), Algiers, Algeria.</LI>
 <LI>2008: Bachelor in Academic computer science, University of science and technology Houari Boumedienne (USTHB), Algiers, Algeria.</LI>
 
