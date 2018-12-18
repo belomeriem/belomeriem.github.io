@@ -105,10 +105,10 @@ body {
 
 <div class="main">
   <div class="topnav">
-  <a class="active" href="#home">Home</a>
+  <a class="active" href="#about">About</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="#publications">Publications</a>
   </div>
 
   <IMG alt=photo  src="photo.jpg" align=right border=0 width="20%" />
@@ -120,7 +120,7 @@ body {
       <A>The University of Copenhagen</A><BR />
       mebe (at) di (dot) ku (dot) dk
   </ADDRESS>
-
+  <div id="about">
   <p>
     I am a postdoctoral researcher at the University of Copenhagen under the supervision of Professor <A href="https://anderssoegaard.github.io/"> Anders S&oslash;gaard</A>. Before joining the <A href="https://coastalcph.github.io/"> CoSTAL group </A> in Copenhagen, I obtained a Doctor of Philosophy (PhD) degree at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST) under the supervision of Professor <A href="http://www.cse.ust.hk/~dekai"> Dekai Wu</A>. 
     I did a Master degree in Software Engineering and a Bachelor degree in Academic Computer Science at the Department of Computer Science, University of Science and Technology Houari Boumedienne, Algiers, Algeria.  
@@ -142,6 +142,9 @@ body {
     Natural Language Processing, 
     Machine Learning.
   </p>
+
+  </div>
+
 
   <h4>Education</h4>
 
