@@ -177,45 +177,38 @@ body {
     <ul>
       
       <li><b>Meriem BELOUCIF</b> and Dekai WU.
-	"<a rel="nolatex" href="library/WU_Dekai/BeloucifWu_Eamt2018.pdf">SRL for low resource languages isn't needed for semantic SMT</a>".
+	<a rel="nolatex" href="library/WU_Dekai/BeloucifWu_Eamt2018.pdf">SRL for low resource languages isn't needed for semantic SMT</a>.
 	<em>21st Annual Conference of the European Association for Machine Translation (EAMT 2018)</em>. Alicante: May 2018.
       </li>
 
       <li><b>Meriem BELOUCIF</b> and Dekai WU.
-	"<a rel="nolatex" href="papers/slt16.pdf">Injecting a Semantic Objective Function into Early Stage Learning of Spoken Language Translation</a>".
+	<a rel="nolatex" href="papers/slt16.pdf">Injecting a Semantic Objective Function into Early Stage Learning of Spoken Language Translation</a>.
 	<em>Sixth IEEE Workshop on Spoken Language Technology (SLT
 	  2016)</em>. San Diego: Dec 2016.
       </li>
-      <li><b>Meriem BELOUCIF</b>, Markus SAERS and Dekai WU.
-	"<a rel="nolatex" href="papers/hytra16.pdf">Improving word alignment for low resource languages using English monolingual SRL</a>".
+      <li><b>Meriem BELOUCIF</b>, Markus SAERS and Dekai WU. <a rel="nolatex" href="papers/hytra16.pdf">Improving word alignment for low resource languages using English monolingual SRL</a>.
 	<em>Sixth Workshop on Hybrid Approaches to Translation (HyTra-6)</em>. Osaka, Japan: Dec 2016.
       </li>
       <li><b>Meriem BELOUCIF</b> and Dekai WU.
-	"<a rel="nolatex" href="papers/ococosda16.pdf">Injecting a Semantic Objective Function into Early Stage Learning of Spoken Language Translation</a>."
+	<a rel="nolatex" href="papers/ococosda16.pdf">Injecting a Semantic Objective Function into Early Stage Learning of Spoken Language Translation</a>.
 	<em>Oriental COCOSDA 2016, 19th International Conference of the Oriental Chapter of the
 	  International Committee for the Co-ordination and Standardization of
 	  Speech Databases and Assessment Techniques (O-COCOSDA
 	  2016)</em>. Bali, Indonesia: Oct 2016.
       </li>
-      <li><b>Meriem BELOUCIF</b> and Dekai WU.
-	"<a rel="nolatex" href="papers/starsem16.pdf">Driving inversion transduction grammar induction with semantic evaluation</a>".
-	<em>5th Joint Conference on Lexical and Computational Semantics  (*SEM 2016), at ACL 2016</em>, 55-63. Berlin: Aug 2016.
+      <li><b>Meriem BELOUCIF</b> and Dekai WU. <a rel="nolatex" href="papers/starsem16.pdf">Driving inversion transduction grammar induction with semantic evaluation</a>. <em>5th Joint Conference on Lexical and Computational Semantics  (*SEM 2016), at ACL 2016</em>, 55-63. Berlin: Aug 2016.
       </li>
-      <li><b>Meriem BELOUCIF</b> and Dekai WU.
-	"<a rel="nolatex" href="papers/sml16.pdf">A semantically confidence-weighted ITG induction algorithm</a>".
-	<em>3rd International Workshop on Semantic Machine Learning (SML  2016), at IJCAI 2016</em>. New York: Jul 2016.
+      <li><b>Meriem BELOUCIF</b> and Dekai WU. <a rel="nolatex" href="papers/sml16.pdf">A semantically confidence-weighted ITG induction algorithm</a>. <em>3rd International Workshop on Semantic Machine Learning (SML  2016), at IJCAI 2016</em>. New York: Jul 2016.
       </li>
-      <li><b>Meriem BELOUCIF</b>, Markus SAERS, and Dekai WU. "<a href="papers/mtsummit15.pdf">Improving Semantic SMT via Soft Semantic Role Label Constraints on ITG Alignments </a>". <em>Machine Translation Summit XV, </em>Miami, Florida: Oct 2015. </li>
-      <li><b>Meriem BELOUCIF</b>, Chi-kiu LO, and Dekai WU. "<a href="papers/iwslt14.pdf">Improving MEANT Based Semantically Tuned SMT</a>". <em>11th International Workshop
-  on Spoken Language Translation (IWSLT 2014)</em>, 34-41. Lake Tahoe, California: Dec 2014.
+      <li><b>Meriem BELOUCIF</b>, Markus SAERS, and Dekai WU. <a href="papers/mtsummit15.pdf">Improving Semantic SMT via Soft Semantic Role Label Constraints on ITG Alignments </a>. <em>Machine Translation Summit XV, </em>Miami, Florida: Oct 2015. </li>
+      <li><b>Meriem BELOUCIF</b>, Chi-kiu LO, and Dekai WU. <a href="papers/iwslt14.pdf">Improving MEANT Based Semantically Tuned SMT</a>. <em>11th International Workshop on Spoken Language Translation (IWSLT 2014)</em>, 34-41. Lake Tahoe, California: Dec 2014.
       </li>
-      <li>Dekai WU, Chi-kiu LO, <b>Meriem BELOUCIF</b> and Markus SAERS. "<a href="papers/ssst14.pdf">Better Semantic Frame Based MT Evaluation via Inversion Transduction Grammars</a>". <em>Proceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in Statistical Translation (at EMNLP 2014)</em>, 22-33. Doha: Oct 2014.
+      <li>Dekai WU, Chi-kiu LO, <b>Meriem BELOUCIF</b> and Markus SAERS. <a href="papers/ssst14.pdf">Better Semantic Frame Based MT Evaluation via Inversion Transduction Grammars</a>. <em>Proceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in Statistical Translation (at EMNLP 2014)</em>, 22-33. Doha: Oct 2014.
       </li>
-      <li>Chi-kiu LO, <b>Meriem BELOUCIF</b>, Markus SAERS, and Dekai WU. "<a rel="nolatex" href="papers/acl14.pdf">XMEANT: Better semantic MT evaluation without reference translations</a>".  <em>52nd Annual Meeting of the Association for Computational 
- Linguistics (ACL 2014)</em>, 765-771. Baltimore, Maryland: Jun 2014.
+      <li>Chi-kiu LO, <b>Meriem BELOUCIF</b>, Markus SAERS, and Dekai WU. <a rel="nolatex" href="papers/acl14.pdf">XMEANT: Better semantic MT evaluation without reference translations</a>.  <em>52nd Annual Meeting of the Association for Computational Linguistics (ACL 2014)</em>, 765-771. Baltimore, Maryland: Jun 2014.
       </li>
       <li>Chi-kiu LO,<b>Meriem BELOUCIF</b>, and Dekai WU. "<a href="papers/iwslt13.pdf">Improving machine translation into Chinese by tuning against Chinese MEANT</a>". <em>10th International Workshop on Spoken Language Translation (IWSLT 2013)</em>. Heidelberg, Germany: Dec 2013. </li>
-      <li>Dekai WU, Karteek ADDANKI, Markus SAERS, and <b>Meriem BELOUCIF</b>. "<a href="papers/emnlp13.pdf">Learning  to Freestyle: Hip Hop Challenge-Response Induction via Transduction  Rule Segmentation</a>". <em>2013 Conference on Empirical Methods in  Natural Language Processing (EMNLP 2013)</em>, 102-112. Seattle: Oct 2013.
+      <li>Dekai WU, Karteek ADDANKI, Markus SAERS, and <b>Meriem BELOUCIF</b>. <a href="papers/emnlp13.pdf">Learning  to Freestyle: Hip Hop Challenge-Response Induction via Transduction  Rule Segmentation</a>. <em>2013 Conference on Empirical Methods in  Natural Language Processing (EMNLP 2013)</em>, 102-112. Seattle: Oct 2013.
       </li>
       <h4>Social Network</h4>
       Please feel free to contact me in any of the following: 
