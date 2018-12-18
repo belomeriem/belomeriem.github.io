@@ -34,6 +34,14 @@
       <A href="https://belomeriem.github.io/">https://belomeriem.github.io/</A>
     </ADDRESS>
 
+<h3 class="widget-title">Follow Me on Twitter</h3><div class="textwidget"><div id="twitterbox" style="width: 267px;                                                   
+    border: 1px solid #ccc;                                                                                                                                                             
+    border-radius: 5px;                                                                                                                                                                 
+    margin-left: 1px;"><a class="twitter-timeline" width="267" height="400" href="https://twitter.com/meriembeloucif" data-widget-id="251127212483420161">Tweets by @MeriemBeloucif</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.in\
+sertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+
+
     <p>
       I am a postdoctoral researcher at the University of Copenhagen under the supervision of Professor Anders S&oslash;gaard. Before joining the CoSTAL group in Copenhagen, I obtained a Doctor of Philosophy (PhD) degree at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST) under the supervision of Professor <A href="http://www.cse.ust.hk/~dekai"> Dekai Wu</A>.
       <p>
