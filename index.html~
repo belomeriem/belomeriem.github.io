@@ -1,6 +1,152 @@
-<?xml version="1.0" encoding="utf8"?>
-<HTML xmlns="http://www.w3.org/1999/xhtml">
-<HEAD>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>Dr Steven Kinnear</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link rel="stylesheet" href="http://stevenkinnear.com/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+<link rel="pingback" href="http://stevenkinnear.com/xmlrpc.php" />
+
+
+<link rel='archives' title='October 2016' href='http://stevenkinnear.com/2016/10/' />
+<link rel='archives' title='November 2015' href='http://stevenkinnear.com/2015/11/' />
+<link rel='archives' title='March 2015' href='http://stevenkinnear.com/2015/03/' />
+<link rel='archives' title='February 2015' href='http://stevenkinnear.com/2015/02/' />
+<link rel='archives' title='October 2014' href='http://stevenkinnear.com/2014/10/' />
+<link rel='archives' title='July 2014' href='http://stevenkinnear.com/2014/07/' />
+<link rel='archives' title='April 2014' href='http://stevenkinnear.com/2014/04/' />
+<link rel='archives' title='December 2013' href='http://stevenkinnear.com/2013/12/' />
+<link rel='archives' title='July 2013' href='http://stevenkinnear.com/2013/07/' />
+<link rel='archives' title='May 2013' href='http://stevenkinnear.com/2013/05/' />
+<link rel='archives' title='April 2013' href='http://stevenkinnear.com/2013/04/' />
+<link rel='archives' title='March 2013' href='http://stevenkinnear.com/2013/03/' />
+<link rel='archives' title='February 2013' href='http://stevenkinnear.com/2013/02/' />
+<link rel='archives' title='January 2013' href='http://stevenkinnear.com/2013/01/' />
+<link rel='archives' title='December 2012' href='http://stevenkinnear.com/2012/12/' />
+<link rel='archives' title='November 2012' href='http://stevenkinnear.com/2012/11/' />
+<link rel='archives' title='October 2012' href='http://stevenkinnear.com/2012/10/' />
+<link rel='archives' title='September 2012' href='http://stevenkinnear.com/2012/09/' />
+
+<link rel="alternate" type="application/rss+xml" title="Dr Steven Kinnear &raquo; Feed" href="http://stevenkinnear.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dr Steven Kinnear &raquo; Comments Feed" href="http://stevenkinnear.com/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://stevenkinnear.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://stevenkinnear.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.1.25' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://stevenkinnear.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.4.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://stevenkinnear.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://stevenkinnear.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://stevenkinnear.com/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.imagefit.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=4.1.25'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://stevenkinnear.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://stevenkinnear.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.25" />
+<link rel='canonical' href='http://stevenkinnear.com/' />
+<link rel='shortlink' href='http://wp.me/P2UBMn-8' />
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+
+  <script type="text/javascript">
+    jQuery(function(){
+    jQuery('.frameworkad').click(function() {
+    var id = jQuery(this).attr("id");
+    var split = id.split("-");
+
+    jQuery.get("http://stevenkinnear.com/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);
+    });
+    });
+    </script>
+<link rel="shortcut icon" href="http://stevenkinnear.com/wp-content/themes/trulyminimal/images/favicon.ico" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Dr Steven Kinnear" />
+<meta property="og:url" content="http://stevenkinnear.com/" />
+<meta property="og:site_name" content="Dr Steven Kinnear" />
+<meta property="og:image" content="http://stevenkinnear.com/wp-content/uploads/2012/09/steven1-300x300.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@jetpack" />
+<meta name="twitter:image" content="http://stevenkinnear.com/wp-content/uploads/2012/09/steven1-300x300.jpg?w=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Visit the post for more." />
+</head>
+<body class="home page page-id-8 page-template-default one-sidebar-right chrome-browser mac-os">
+<div id="header">
+  <h1><a href="http://stevenkinnear.com">Dr Steven Kinnear</a></h1>
+  <h2></h2>
+  <a class="top-logo" href="http://stevenkinnear.com"><img src="http://stevenkinnear.com/wp-content/uploads/2012/09/stevenlogo22.png" alt="Dr Steven Kinnear" /></a>
+  </div>
+
+<div id="navbar">
+
+  <ul id="top-menu" class="menu"><li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17"><a href="http://stevenkinnear.com/">About Me</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="http://stevenkinnear.com/blog/">Blog</a></li>
+<li id="menu-item-693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-693"><a href="http://stevenkinnear.com/category/news/">News</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://stevenkinnear.com/books/">Books</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="http://stevenkinnear.com/contact/">Contact</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://stevenkinnear.com/hire-me/">Hire Me</a></li>
+  </ul>
+  <div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+  <div id="sidebar">
+    <div id="social-widget-3" class="widget-container Social_Widget"><h3 class="widget-title">Connect With Me</h3><div class="socialmedia-buttons smw_left"><a href="https://www.facebook.com/stevenrkinnear" rel="nofollow" target="_blank"><img width="32" height="32" src="http://stevenkinnear.com/wp-content/plugins/social-media-widget/images/default/32/facebook.png" 
+																														  alt="Follow Me on Facebook" 
+																														  title="Follow Me on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="https://twitter.com/DrStevenKinnear" rel="nofollow" target="_blank"><img width="32" height="32" src="http://stevenkinnear.com/wp-content/plugins/social-media-widget/images/default/32/twitter.png" 
+																																																			      alt="Follow Me on Twitter" 
+																																																			      title="Follow Me on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="http://www.linkedin.com/in/stevenkinnear" rel="nofollow" target="_blank"><img width="32" height="32" src="http://stevenkinnear.com/wp-content/plugins/social-media-widget/images/default/32/linkedin.png" 
+																																																																									      alt="Follow Me on LinkedIn" 
+																																																																									      title="Follow Me on LinkedIn" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a><a href="mailto:sk@stevenkinnear.com" rel="nofollow" target="_blank"><img width="32" height="32" src="http://stevenkinnear.com/wp-content/plugins/social-media-widget/images/default/32/email.png" 
+																																																																																														  alt="Follow Me on E-mail" 
+																																																																																														  title="Follow Me on E-mail" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade" /></a></div><div class="clear"></div></div><div id="text-2" class="widget-container widget_text"><h3 class="widget-title">Follow Me on Twitter</h3><div class="textwidget"><div id="twitterbox" style="width: 267px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 1px;"><a class="twitter-timeline" width="267" height="400" href="https://twitter.com/DrStevenKinnear" data-widget-id="251127212483420161">Tweets by @DrStevenKinnear</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+</div>
+      <div class="clear"></div></div><div id="blog_subscription-2" class="widget-container jetpack_subscription_widget"><h3 class="widget-title">Subscribe to Blog via Email</h3>
+      <form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+	<div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+	</div><p id="subscribe-email">
+	  <label id="jetpack-subscribe-label" for="subscribe-field">
+	    Email Address</label>
+	  <input type="email" name="email" value="" id="subscribe-field" placeholder="Email Address" />
+	  </p>
+
+	<p id="subscribe-submit">
+	  <input type="hidden" name="action" value="subscribe" />
+	  <input type="hidden" name="source" value="http://stevenkinnear.com/" />
+	  <input type="hidden" name="sub-type" value="widget" />
+	  <input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+	  <input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+	  </p>
+	</form>
+
+      <script>
+	( function( d ) {
+	if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+	var label = d.getElementById( 'jetpack-subscribe-label' );
+	label.style.clip  = 'rect(1px, 1px, 1px, 1px)';
+	label.style.position = 'absolute';
+	label.style.height   = '1px';
+	label.style.width    = '1px';
+	label.style.overflow = 'hidden';
+	}
+	} ) ( document );
+	</script>
+       
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131016633-1"></script>
   <script>
@@ -11,18 +157,7 @@
   gtag('config', 'UA-131016633-1');
   </script>
 
-  <TITLE>Meriem Beloucif</TITLE>
-  <META http-equiv=Content-Type content="text/html; charset=utf8">
-
-  <LINK rel="stylesheet" type="text/css" media="screen" href="http://www.cs.ust.hk/~hltc/hltcsite.css" />
-  <LINK rel="stylesheet" type="text/css" media="print" href="http://www.cs.ust.hk/~hltc/hltcprint.css" />
-  <LINK rel="shortcut icon" href="http://www.cs.ust.hk/~hltc/favicon.ico" />
-  <LINK rel="icon" href="http://www.cs.ust.hk/~hltc/favicon.ico" />
-  <META content="article" name="documentclass">
-  <META content="fullpage,a4" name="documentstyle">
-</HEAD>
-<BODY xml:lang="en">
-  
+    
     <IMG alt=photo  src="photo.jpg" align=right border=0 width="20%" />
     <H1>Meriem BELOUCIF  <span lang="ar">&#1605;&#1585;&#1610;&#1605; &#1576;&#1604;&#1608;&#1589;&#1610;&#1601; </span></H1>
     <H4>Postdoctoral Researcher at the  Department of Computer Science, University of Copenhagen</H4>
