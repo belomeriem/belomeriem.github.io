@@ -21,6 +21,47 @@
   <META content="article" name="documentclass">
   <META content="fullpage,a4" name="documentstyle">
 </HEAD>
+
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+
 <BODY xml:lang="en">
   
     <IMG alt=photo  src="photo.jpg" align=right border=0 width="20%" />
@@ -34,12 +75,13 @@
       <A href="https://belomeriem.github.io/">https://belomeriem.github.io/</A>
     </ADDRESS>
 
+<div class="sidenav">
 <h3 class="widget-title">Follow Me on Twitter</h3><div class="textwidget"><div id="twitterbox" style="width: 267px;                                                   
     border: 1px solid #ccc;                                                                                                                                                             
     border-radius: 5px;                                                                                                                                                                 
     margin-left: 1px;"> <a class="twitter-timeline" href="https://twitter.com/meriembeloucif?ref_src=twsrc%5Etfw">Tweets by meriembeloucif</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+</div>
 
     <p>
       I am a postdoctoral researcher at the University of Copenhagen under the supervision of Professor Anders S&oslash;gaard. Before joining the CoSTAL group in Copenhagen, I obtained a Doctor of Philosophy (PhD) degree at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST) under the supervision of Professor <A href="http://www.cse.ust.hk/~dekai"> Dekai Wu</A>.
