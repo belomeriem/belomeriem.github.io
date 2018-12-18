@@ -100,7 +100,7 @@ body {
       <A>The University of Copenhagen</A><BR />
       mebe (at) di (dot) ku (dot) dk
   </ADDRESS>
-  <div id="about">
+
   <p>
     I am a postdoctoral researcher at the University of Copenhagen under the supervision of Professor <A href="https://anderssoegaard.github.io/"> Anders S&oslash;gaard</A>. Before joining the <A href="https://coastalcph.github.io/"> CoSTAL group </A> in Copenhagen, I obtained a Doctor of Philosophy (PhD) degree at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST) under the supervision of Professor <A href="http://www.cse.ust.hk/~dekai"> Dekai Wu</A>. 
     I did a Master degree in Software Engineering and a Bachelor degree in Academic Computer Science at the Department of Computer Science, University of Science and Technology Houari Boumedienne, Algiers, Algeria.  
@@ -123,8 +123,8 @@ body {
     Machine Learning.
   </p>
 
-  </div>
-  <div id="education">
+</div>
+<div id="education">
 
   <h4>Education</h4>
 
@@ -157,6 +157,7 @@ body {
   <LI>2008: Technical training in Computer Networks at Mozy telecom, Algiers, Algeria.</LI>
   <LI>2008: Entrepreneurship for beginners at the National Agency in Support of Youth Employment (ANSEJ), Algiers, Algeria.</LI>
 </div>
+
 <div id="grants">
 
   <h4>Grants and Awards</h4>
