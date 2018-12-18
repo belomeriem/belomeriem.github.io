@@ -62,46 +62,32 @@ body {
 }
 </style>
 
-<style>
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-}
-
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-</style>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#tabs" ).tabs();
+  } );
+  </script>
 
 </HEAD>
 
 
 <BODY xml:lang="en">
 
+<div id="tabs">
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#grants">Grants</a></li>
+    <li><a href="#publications">Publications</a></li>
+  </ul>
+<div id="about">
 <div class="sidenav">
 <a class="twitter-timeline" href="https://twitter.com/meriembeloucif?ref_src=twsrc%5Etfw">Tweets by meriembeloucif</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-
 
 <div class="main">
   <div class="topnav">
@@ -177,6 +163,9 @@ body {
   <LI>2008: Technical training in Computer Networks at Mozy telecom, Algiers, Algeria.</LI>
   <LI>2008: Entrepreneurship for beginners at the National Agency in Support of Youth Employment (ANSEJ), Algiers, Algeria.</LI>
 
+</div>
+<div id="grants">
+
   <h4>Grants and Awards</h4>
   <LI>2018: Awarded the NVIDIA GPU Grant Program.</LI>
   <LI>2018: Passed the thesis defence examination.</LI>
@@ -191,6 +180,10 @@ body {
   <LI>2011: Ranked first in the Algerian national selection for graduate school entrance.</LI>
   <LI>2010: Ranked fourth over two hundred during the Master studies.</LI>
   <LI>2008: Ranked third over eighty during the Bachelor studies. </LI>
+
+</div>  
+
+<div id="publications">
   
   <h4>Publications</h4>
   <ul>
@@ -246,7 +239,7 @@ body {
       <small>Last updated: 14/12/2018</small>
     </ul>
   </ul>
-
+</div>
 </div>      
 </BODY>
     
