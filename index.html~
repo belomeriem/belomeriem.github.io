@@ -62,8 +62,17 @@ body {
 }
 </style>
 
+
 <BODY xml:lang="en">
-  
+
+<div class="sidenav">
+<h3 class="widget-title">Follow Me on Twitter</h3><div class="textwidget"><div id="twitterbox" style="width: 267px; 
+    border: 1px solid #ccc;
+    border-radius: 5px; 
+    margin-left: 1px;"> <a class="twitter-timeline" href="https://twitter.com/meriembeloucif?ref_src=twsrc%5Etfw">Tweets by meriembeloucif</a> <script async src="https://platform.twit
+ter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="main">
     <IMG alt=photo  src="photo.jpg" align=right border=0 width="20%" />
     <H1>Meriem BELOUCIF  <span lang="ar">&#1605;&#1585;&#1610;&#1605; &#1576;&#1604;&#1608;&#1589;&#1610;&#1601; </span></H1>
     <H4>Postdoctoral Researcher at the  Department of Computer Science, University of Copenhagen</H4>
@@ -74,14 +83,6 @@ body {
       mebe (at) di (dot) ku (dot) dk
       <A href="https://belomeriem.github.io/">https://belomeriem.github.io/</A>
     </ADDRESS>
-
-<div class="sidenav">
-<h3 class="widget-title">Follow Me on Twitter</h3><div class="textwidget"><div id="twitterbox" style="width: 267px;                                                   
-    border: 1px solid #ccc;                                                                                                                                                             
-    border-radius: 5px;                                                                                                                                                                 
-    margin-left: 1px;"> <a class="twitter-timeline" href="https://twitter.com/meriembeloucif?ref_src=twsrc%5Etfw">Tweets by meriembeloucif</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
 
     <p>
       I am a postdoctoral researcher at the University of Copenhagen under the supervision of Professor Anders S&oslash;gaard. Before joining the CoSTAL group in Copenhagen, I obtained a Doctor of Philosophy (PhD) degree at the Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST) under the supervision of Professor <A href="http://www.cse.ust.hk/~dekai"> Dekai Wu</A>.
@@ -224,7 +225,7 @@ Please feel free to contact me in any of the following:
 <li><a href="https://plus.google.com/u/0/+MeriemBeloucif88/posts">g+</a></li>
     <hr />
     <small>Last updated: 14/12/2018</small>
-    
+  </div>  
   </BODY>
 </HTML>
 
