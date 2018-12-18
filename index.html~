@@ -78,6 +78,11 @@ body {
 
 <BODY xml:lang="en">
 
+<div class="sidenav">
+<a class="twitter-timeline" href="https://twitter.com/meriembeloucif?ref_src=twsrc%5Etfw">Tweets by meriembeloucif</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div class="main">
 <div id="tabs">
   <ul>
     <li><a href="#about">About</a></li>
@@ -85,11 +90,7 @@ body {
     <li><a href="#publications">Publications</a></li>
   </ul>
 <div id="about">
-<div class="sidenav">
-<a class="twitter-timeline" href="https://twitter.com/meriembeloucif?ref_src=twsrc%5Etfw">Tweets by meriembeloucif</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
-<div class="main">
   <div class="topnav">
   <a class="active" href="#about">About</a>
   <a href="#news">News</a>
