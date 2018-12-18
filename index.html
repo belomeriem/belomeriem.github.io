@@ -20,11 +20,53 @@
   <LINK rel="icon" href="http://www.cs.ust.hk/~hltc/favicon.ico" />
   <META content="article" name="documentclass">
   <META content="fullpage,a4" name="documentstyle">
+
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+
 </HEAD>
 
 
 <BODY xml:lang="en">
-
+<div class="main">
   <IMG alt=photo  src="photo.jpg" align=right border=0 width="20%" />
   <H1>Meriem BELOUCIF  <span lang="ar">&#1605;&#1585;&#1610;&#1605; &#1576;&#1604;&#1608;&#1589;&#1610;&#1601; </span></H1>
   <H4>Postdoctoral Researcher at the  Department of Computer Science, University of Copenhagen</H4>
@@ -155,8 +197,11 @@
       <li><a href="https://plus.google.com/u/0/+MeriemBeloucif88/posts">g+</a></li>
       <hr />
       <small>Last updated: 14/12/2018</small>
-      
-    </BODY>
+    </ul>
+  </ul>
+
+</div>      
+</BODY>
     
 </HTML>
 
