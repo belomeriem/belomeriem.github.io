@@ -16,7 +16,9 @@
 
 <style>
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Helvetica", "Arial", sans-serif;
+  color: #444444;  
+  font-size: 9pt;
 }
 
 .sidenav {
@@ -127,8 +129,8 @@ body {
   
   <h4>Teaching Experience</h4>
     
-  <LI>Fall 2018: Guest lecturer at the NLP class, University of Copenhagen</LI>  
-  <LI>Fall 2018: Guest lecturer at the Introduction to Computer Science</LI>
+  <LI>Fall 2018: Guest lecturer, Natural Language Processing, University of Copenhagen.</LI>  
+  <LI>Fall 2018: Guest lecturer, Introduction to Computer Science, University of Copenhagen.</LI>
   
   <LI>Fall 2016: COMP4911 IT Entrepreneurship, Hong Kong University of Science and Technology. </LI>
   <LI>Spring 2016: COMP3211 Fundamentals of Artificial Intelligence, Hong Kong University of Science and Technology. </LI>   
